@@ -4,4 +4,5 @@ Android To Do List app using built-in SQLlite database
 
     Android Studio 3.4.1 project - 8/2019
 
-![Git-R-Done To Do List](https://alanv73.github.io/video/git-r-done.gif)
+![Git-R-Done](https://alanv73.github.io/video/git-r-done.gif)
+
