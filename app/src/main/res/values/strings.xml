@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Git-R-Done</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_clearDB">Delete All Tasks</string>
+</resources>
